@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/happy-birthday-for-wang/static/css/main.7161f514.css",
+    "main.js": "/happy-birthday-for-wang/static/js/main.d5a91cce.js",
+    "static/js/787.c02ac8e1.chunk.js": "/happy-birthday-for-wang/static/js/787.c02ac8e1.chunk.js",
+    "static/media/BirthdaySongForLetter.mp3": "/happy-birthday-for-wang/static/media/BirthdaySongForLetter.111c22a79a388c972172.mp3",
+    "static/media/cute_font.ttf": "/happy-birthday-for-wang/static/media/cute_font.8e5015f77e9a4ea3d076.ttf",
+    "static/media/BirthdaySongForPrelude.mp3": "/happy-birthday-for-wang/static/media/BirthdaySongForPrelude.abad9088714bbef155cf.mp3",
+    "index.html": "/happy-birthday-for-wang/index.html",
+    "main.7161f514.css.map": "/happy-birthday-for-wang/static/css/main.7161f514.css.map",
+    "main.d5a91cce.js.map": "/happy-birthday-for-wang/static/js/main.d5a91cce.js.map",
+    "787.c02ac8e1.chunk.js.map": "/happy-birthday-for-wang/static/js/787.c02ac8e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7161f514.css",
+    "static/js/main.d5a91cce.js"
+  ]
+}
